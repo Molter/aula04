@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCrud</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="new_item_menu">Novo Item</string>
+    <string name="save">Salvar</string>
+    
+    <string name="name">Nome</string>
+    <string name="grade">Nota</string>
+    
+    
+	<string name="field_errors">Campos obrigatórios.</string>    
+	<string name="success">Estudante Salvo com sucesso.</string>    
+	
+	
+	<string name="refresh">Atualizar</string>
+	<string name="delete">Excluir</string>
+	<string name="deleted">Estudante Removido.</string>
+	
+
+</resources>
